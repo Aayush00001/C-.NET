@@ -1,0 +1,4 @@
+F:\COLLAGE\SEM5\C#\task-1.1\task-1.1\bin\Debug\task-1.1.exe
+F:\COLLAGE\SEM5\C#\task-1.1\task-1.1\bin\Debug\task-1.1.pdb
+F:\COLLAGE\SEM5\C#\task-1.1\task-1.1\obj\x86\Debug\task-1.1.exe
+F:\COLLAGE\SEM5\C#\task-1.1\task-1.1\obj\x86\Debug\task-1.1.pdb
