@@ -1,0 +1,4 @@
+F:\COLLAGE\SEM5\2.C#\0.1 Assiment\task3_2\task3_2\bin\Debug\task3_2.exe
+F:\COLLAGE\SEM5\2.C#\0.1 Assiment\task3_2\task3_2\bin\Debug\task3_2.pdb
+F:\COLLAGE\SEM5\2.C#\0.1 Assiment\task3_2\task3_2\obj\x86\Debug\task3_2.exe
+F:\COLLAGE\SEM5\2.C#\0.1 Assiment\task3_2\task3_2\obj\x86\Debug\task3_2.pdb
