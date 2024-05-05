@@ -1,0 +1,4 @@
+F:\COLLAGE\SEM5\C#\task2_15\task2_15\bin\Debug\task2_15.exe
+F:\COLLAGE\SEM5\C#\task2_15\task2_15\bin\Debug\task2_15.pdb
+F:\COLLAGE\SEM5\C#\task2_15\task2_15\obj\x86\Debug\task2_15.exe
+F:\COLLAGE\SEM5\C#\task2_15\task2_15\obj\x86\Debug\task2_15.pdb
